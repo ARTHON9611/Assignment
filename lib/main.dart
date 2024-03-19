@@ -77,11 +77,11 @@ class _TextEditorState extends State<TextEditor> {
   }
 
   void _redo() {
-    // Implement redo functionality
+
   }
 
   void _undo() {
-    // Implement undo functionality
+  
   }
 
   @override
